@@ -44,3 +44,46 @@ h5{
    left:205vh;
 }
 
+main{
+    background-image: url(../img/1\ IMG.png);
+  background-repeat: repeat-x;
+background-attachment: fixed;
+position: absolute;
+top: 200px;
+left: 200px;
+}
+.img1{
+    background-image: url(../img/Ellipse\ 1\ \(1\).png);
+    position: absolute;
+    background-repeat: no-repeat no-repeat; 
+ top: 550px;
+    left: 10px;
+    opacity: 50.0;
+
+}
+
+.esquerda{
+    background-image: url(../img/Vector\ \(6\).png);
+    position:absolute;
+    left: 40px;
+    top: 570px;
+}
+
+.Img2{
+    background-image: url(../img/Ellipse\ 2.png);
+    position: absolute;
+    background-repeat: no-repeat no-repeat; 
+ top: 555px;
+    left: 2500px;
+    opacity: 50.0;
+}
+.direita{
+    background-image: url(../img/Vector\ \(7\).png);
+    position:absolute;
+    top: 575px;
+    left: 2540px;
+    color: white;
+}
+.valor{
+    background-image: url(../img/Rectangle\ 6.png);
+}
